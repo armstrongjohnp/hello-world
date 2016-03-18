@@ -1,7 +1,8 @@
 # hello-world
-Following the Github Intro
 
-This is a repository for Basement projects.
+This is a project to follow along the GitHub Tutorial
+
+This is a repository is for Basement projects.
 
 It will involve some:
 JS/Angular/Ember/JQuery
